@@ -1,6 +1,6 @@
 #pykit pk Python module
-def write():
-	print("Hello from pykit")
+def write(n):
+	print()
 
 #pykit version 0.1
 def _test():
