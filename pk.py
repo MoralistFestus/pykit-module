@@ -1,7 +1,9 @@
-#pykit pk Python module
-def write(n):
-	print()
+import random
+import string
+import secrets
 
-#pykit version 0.1
-def _test():
-	print("You are running pykit v0.1")
+def write(n):
+	print(n)
+	
+if __name__ == '__main__':
+	print (" ")
